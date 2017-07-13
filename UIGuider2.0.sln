@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8FBA7F4A-3676-085E-B94D-EFC22ADB30AF}") = "UIGuider2.0", "Assembly-CSharp.csproj", "{561A6325-966D-D38C-4B4C-F36CEB82E2F5}"
+EndProject
+Project("{8FBA7F4A-3676-085E-B94D-EFC22ADB30AF}") = "UIGuider2.0", "Assembly-CSharp-Editor.csproj", "{8F5CAE28-4CEB-526A-C0F2-E03BB9678D14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561A6325-966D-D38C-4B4C-F36CEB82E2F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{561A6325-966D-D38C-4B4C-F36CEB82E2F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{561A6325-966D-D38C-4B4C-F36CEB82E2F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{561A6325-966D-D38C-4B4C-F36CEB82E2F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5CAE28-4CEB-526A-C0F2-E03BB9678D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5CAE28-4CEB-526A-C0F2-E03BB9678D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5CAE28-4CEB-526A-C0F2-E03BB9678D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5CAE28-4CEB-526A-C0F2-E03BB9678D14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

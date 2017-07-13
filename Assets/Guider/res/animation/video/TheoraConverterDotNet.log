@@ -1,0 +1,34 @@
+Completed:  '11.ogv', (.7 MB) in .7 minutes.
+Completed:  '21.ogv', (1.3 MB) in 1.1 minutes.
+Finished processing all files at 2017/6/8 星期四 21:27
+----------------------------------------------------------------------------
+Theora Converter .NET
+2017年6月8日 21:36:18
+
+ffmpeg2theora options: 
+ --videobitrate 1000 --pp default --audiobitrate 128 --two-pass --soft-target --contact "http://sourceforge.net/projects/theoraconverter"
+Output Folder: G:\Unity3D\UIGuider2.0\Assets\Guider\resources\animation\video
+Converting: '11.MOV', (18 MB)
+Converting: '21.MOV', (32.2 MB)
+----------------------------------------------------------------------------
+Theora Converter .NET
+2017年6月9日 9:29:39
+
+ffmpeg2theora options: 
+ --videobitrate 1000 --pp default --audiobitrate 128 --two-pass --soft-target --contact "http://sourceforge.net/projects/theoraconverter"
+Output Folder: G:\Unity3D\UIGuider2.0\Assets\Guider\resources\animation\video
+Converting: 'test.mp4', (1.4 MB)
+Completed:  'test.ogv', (3.5 MB) in .3 minutes.
+Finished processing all files at 2017/6/9 星期五 9:29
+----------------------------------------------------------------------------
+Theora Converter .NET
+2017年6月15日 17:38:26
+
+ffmpeg2theora options: 
+ --videobitrate 1000 --pp default --audiobitrate 128 --two-pass --soft-target --contact "http://sourceforge.net/projects/theoraconverter"
+Output Folder: G:\Unity3D\UIGuider2.0\Assets\Guider\resources\animation\video
+Converting: 'foot.mp4', (.1 MB)
+Converting: 'hand.mp4', (.1 MB)
+Completed:  'foot.ogv', (.1 MB) in  minutes.
+Completed:  'hand.ogv', ( MB) in  minutes.
+Finished processing all files at 2017/6/15 星期四 17:38

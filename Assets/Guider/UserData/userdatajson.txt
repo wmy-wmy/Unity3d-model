@@ -1,0 +1,1 @@
+{"tall": 186,"weight": 89,"data1": 41,"data2": 47,"data3": 63,"data4": 63,"data5": 18,"data6": 18,"data7": 32,"data8": 73,"data9": 76,"data10": 100,"data11": 89,"data12": 0,"data13": 90,"data14": 125,"data15": 72,"data16": 104,"data17": 104,"data18": 60,"data19": 47,"data20": 0,"data21": 40,"data22": 0,"data23": 0}

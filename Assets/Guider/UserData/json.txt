@@ -1,0 +1,14 @@
+{
+    "address1": "", 
+    "address2": "", 
+    "avatar": "http://appbucket.test.orbbec.me/test/img/2017/06/26/53264b009d8105249fe2f88d59d967da", 
+    "birthday": "1929-01-01", 
+    "code": 0, 
+    "gender": 1, 
+    "id": 100014, 
+    "iscan": 1, 
+    "nickname": "Sam", 
+    "phone": "", 
+    "token": "eyJhbGciOiJIUzI1NiIsImV4cCI6MTUwMTA1MDE3MCwiaWF0IjoxNDk4NDU4MTcwfQ.eyJpZCI6MTAwMDE0fQ.YODAUU9FcowknPV81-wzopEHR2nd5KVnThpk_KmDrsE", 
+    "weight": 770
+}

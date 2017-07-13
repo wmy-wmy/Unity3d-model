@@ -1,0 +1,60 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Guider\PanelsCode\DialogTips\DialogExit.cs">
+    <Files>
+      <File FileName="Assets\Guider\PanelsCode\3Dmodel\objloader\Scripts\AsImpLSample.cs" Line="77" Column="5" />
+      <File FileName="Assets\Guider\PanelsCode\uiroot\GlobalVerboseWatching.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\sex_panel\ItemClickBtn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\UserData\UserDataProcess.cs" Line="354" Column="38" />
+      <File FileName="Assets\Guider\PanelsCode\GuiderPic\ReadyOKNext.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\scan_posture\Video1Play.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\3Dmodel\Load3DModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\BackButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\loadData\WaitDataPeocess.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\UserData\userdatajson.txt" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\login_success\login_sucess.cs" Line="30" Column="32" />
+      <File FileName="Assets\Guider\PanelsCode\login_panel\QRCode.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\UploadData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\sex_panel\Back2Login.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\Again.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\ready_time\WaitSecond.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\ready_time\ReadTimeBack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\scan_posture\PlayAudio.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\scan_posture\ScanPostureBack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\scan_posture\startScanBtn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\DataDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\EndPre.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\Main.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\GuiderPic\BackBTN.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\StringValue.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\3Dmodel\PlyLoaderTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Examples\Scripts\Other\SpinWithMouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\3Dmodel\objloader\Scripts\CustomObjImporter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\3Dmodel\Scripts\Dataset\ObjectBuilder.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\scan_posture\Video2Play.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\GuiderPic\ActiveText.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\scan_posture\PanelInit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\End.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\login_panel\Enter3DBtn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\DialogTips\TimerExit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\DialogTips\DialogOK.cs" Line="16" Column="36" />
+      <File FileName="Assets\Guider\PanelsCode\DialogTips\DialogExit.cs" Line="22" Column="3" />
+      <File FileName="Assets\Guider\PanelsCode\login_panel\BackBtn.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\DialogTips\ShowWarnning.cs" Line="74" Column="36" />
+      <File FileName="Assets\Guider\UserData\PanelChange.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\UserData\UserModify.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\3Dmodel\Best HTTP (Pro)\BestHTTP\HTTPRequest.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIPlayAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\Interaction\UIButtonColor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\sex_panel\KeyBoardButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\sex_panel\SexSelectClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\PanelInitial.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\UserData\EndAndRestart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Guider\PanelsCode\sex_panel\ValueInit.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
